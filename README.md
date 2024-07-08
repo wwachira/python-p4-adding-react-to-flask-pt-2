@@ -1,4 +1,5 @@
 # Adding React to Flask Part 2
+npx create-react-app client --use-npm
 
 ## Learning Goals
 
